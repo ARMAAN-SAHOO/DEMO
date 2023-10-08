@@ -1,4 +1,4 @@
 # DEMO
 First Git Repo
-Author-Armaan Sahoo
+Author-Armaan Sahoo King
 Hello
